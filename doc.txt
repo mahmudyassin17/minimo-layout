@@ -1,0 +1,4 @@
+font-family: inconsolata regular
+            playfairdisplay regular 
+            ubuntu light
+color: #626262
